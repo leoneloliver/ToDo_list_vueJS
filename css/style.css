@@ -1,0 +1,8 @@
+.taskDone {
+  text-decoration: line-through;
+  color: red;
+}
+
+.disabled {
+  display: none;
+}
