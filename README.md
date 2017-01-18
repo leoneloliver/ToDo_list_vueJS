@@ -6,6 +6,4 @@ Simple Example Vue.js
 
 Demo on [Codepen](http://codepen.io/leoneloliver/full/vgyEjY/)
 
-Authors:
-
-Leonel Oliveira [Github](https://github.com/leoneloliver)
+Author: Leonel Oliveira [Github](https://github.com/leoneloliver)
